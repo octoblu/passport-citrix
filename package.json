@@ -1,6 +1,6 @@
 {
   "name": "passport-citrix",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Citrix authentication strategy for Passport, supports Goto* products",
   "main": "./lib",
   "scripts": {
